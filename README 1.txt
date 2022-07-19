@@ -1,9 +1,5 @@
 Tech:
-    + Library: Bootstrap,Jquery
-    + Framework: + Frontend: Angular
-                 + Backend: Laravel or MVC
-                 + Database : MySQL
-    + Tool: Git,Dreamweaver
+    Boostrap,Jquery,Laravel,MySQL
 
 Frontend:
     - Trang chủ  
