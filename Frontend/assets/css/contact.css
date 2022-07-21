@@ -21,17 +21,7 @@
     margin-bottom: 30px;
 }
 
-.dq-flex {
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    -ms-flex-align: center;
-    -webkit-align-items: center;
-    -webkit-box-align: center;
-    align-items: center;
-}
-
-.dq-flex a {
+.items a {
     color: #363636!important;
     text-decoration: none;
     background: transparent;
@@ -78,7 +68,7 @@
     bottom: 7px;
     right: 0;
     border-radius: 30px;
-    clear: both;
+    border: solid #ccc 1px;
 }
 
 .title-head {
