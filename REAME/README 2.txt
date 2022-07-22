@@ -7,3 +7,7 @@
     - complete.php
     - contact.php
     - register/login.php
+
+
+    Database:
+   create database aptech1project
