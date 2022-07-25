@@ -10,4 +10,4 @@
 
 
     Database:
-   create database aptech1project
+ CREATE DATABASE Aptech1Project
